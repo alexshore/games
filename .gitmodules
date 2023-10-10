@@ -1,0 +1,3 @@
+[submodule "snake_arcade"]
+	path = snake_arcade
+	url = https://github.com/alexshore/snake_arcade.git
