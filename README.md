@@ -1,6 +1,6 @@
 # Games
 
-Repo containg games I've already made and games that I hope to make in the future.
+Repo containing games I've already made and plans of games that I hope to make in the future.
 
 ### Current
 - Snake (Python using Arcade)
