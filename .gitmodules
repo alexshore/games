@@ -2,3 +2,7 @@
 	path = snake_arcade
 	url = https://github.com/alexshore/snake_arcade.git
 	branch = main
+[submodule "connect4_arcade"]
+	path = connect4_arcade
+	url = https://github.com/alexshore/connect4_arcade.git
+	branch = main
